@@ -18,6 +18,8 @@
     "primeicons": "^6.0.1",
     "primevue": "^3.25.0",
     "quill": "^1.3.7",
+    "sass": "^1.59.3",
+    "sass-loader": "^13.2.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
